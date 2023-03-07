@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web development
 - ⚡ I have a basic proficiency in C, Python, SQL, HTML, CSS, Javascript and Flask
 - 🔭 I have completed CS50x by Harvard, here is a link to my certificate -> https://cs50.harvard.edu/certificates/e2098e13-9c4c-49ec-be89-28d7570742b2
 - 📫 How to reach me: My email: zhengHao21@gmail.com
